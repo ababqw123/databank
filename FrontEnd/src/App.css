@@ -1,0 +1,18 @@
+.App{
+    background-color : gray;
+    width : 70%;
+    height : 500px;
+    margin : 30px auto;
+    padding : 10px;
+    text-align: center;
+    border : 1px solid white;
+}
+.linkBox{
+    margin : auto ;
+}
+
+.link {
+    padding : 20px;
+    text-decoration: none;
+    margin-top : 20px;
+}
