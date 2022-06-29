@@ -1,0 +1,12 @@
+wsl2, 리눅스(centos 7.9)  - docker, 쿠버네티스
+테스트 - nginx
+putty 설치(vm용)
+
+리액트, nest.js, mongodb(compass), mysql 설정기본(연동)
+
+git, java
+
+vm
+152.70.246.19:22 (public)
+172.16.20.109:22 (private)
+root / dbs5815!
